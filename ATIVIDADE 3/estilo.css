@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+    
+}
+
+#mais, #menos {
+    height: 80px;
+    width: 80px;
+    font-size: 50px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#contador {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#tudo {
+    margin-top: 100px;
+}
